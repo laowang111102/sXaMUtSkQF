@@ -1,0 +1,2 @@
+# sXaMUtSkQF
+本停车场管理系统基于Springboot+Vue实现前后端分离，核心功能为用户信息管理和车位信息管理。系统以MySQL为数据库，采用Java语言开发，前端Vue及Element-UI构建界面，后端结合Springboot和MyBatis Plus处理业务逻辑。主要用途在于提高停车场运营效率，实现车位的高效分配与管理，同时为管理员提供便捷的用户信息管理与查询服务，优化停车体验。
